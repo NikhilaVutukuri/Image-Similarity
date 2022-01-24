@@ -16,5 +16,5 @@ Firstly, load the two images using imread function and then resize them.
 * In Image-Similarity folder, create a new Google Colaboratory file. Copy and paste the Code.py.
 * Run the code to see the results.
 
-<img width="1378" alt="Screen Shot 2022-01-23 at 7 52 39 PM" src="https://user-images.githubusercontent.com/37280400/150719935-872efee4-fd54-4e70-99b2-402974cf6066.png">
+
 
