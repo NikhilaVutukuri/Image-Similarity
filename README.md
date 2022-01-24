@@ -6,6 +6,8 @@ Firstly, load the two images using imread function and then resize them.
 <br>Calculate difference between the two images and split the RGB differences among three variables using split function.
 <br>Then check if all the RGB channels difference is 0.
 <br>If yes, the two images are similar.
+
+<br>Image Similarity is useful for fraud detection and visual search.
 <br><br>
 ####  Process of Execution -
 * I have executed my code in Colab Notebooks.
